@@ -1,4 +1,5 @@
-### Hi there 👋
+#### Hi Hello 👋
+##### 🌱<img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=React&logoColor=#61DAFB"/>
 
 <!--
 **l0u0h0/l0u0h0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l0u0h0&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l0u0h0&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0u0h0&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l0u0h0&repo=2022_capstone&show_owner=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
