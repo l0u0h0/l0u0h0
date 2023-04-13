@@ -65,7 +65,7 @@
 </div>
 
 [![Suhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhwan2004)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksh2004)](https://solved.ac/ksh2004/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=l0u0h0)](https://solved.ac/l0u0h0/)
 
 
 
