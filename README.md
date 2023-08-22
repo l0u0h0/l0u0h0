@@ -4,8 +4,8 @@
   <div> ☁️ <b>ABOUT ME</b> ☁️ </div>
   <br>
   <div>
-    <p>안녕하세요👋. <b>프론트엔드</b> 개발자 이유한입니다.</p>
-    <p>잘 부탁드려용 ~~~</p>
+    <p>안녕하세요👋. <b>프론트엔드</b> 개발자</p>
+    <p>새로운 개발을 즐거워하는 이유한입니다.</p>
   </div>
   <br>
   <br>
@@ -36,7 +36,7 @@
   <div> 📝 <b>EXPERIENCES</b> 📝 </div>
   <br>
   <div>
-    <ul  align="left">
+    <ul>
       <li>SSAFY(삼성 청년 SW 아카데미) 9th 자바 전공자반 (2023.01 ~ now)
   </ul>
   </div>
