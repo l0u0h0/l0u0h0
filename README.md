@@ -17,9 +17,10 @@
   <br>
   <div>
     <p>
-      <img  alt="JavaScript"  src ="https://img.shields.io/badge/JavaScript-ffe450.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
       <img  alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-      <img  alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+      <img  alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
+      <img  alt="JavaScript"  src ="https://img.shields.io/badge/JavaScript-ffe450.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+      <img  alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
     </p>
     <p>
       <img  alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -35,7 +36,9 @@
   <div> 📝 <b>EXPERIENCES</b> 📝 </div>
   <br>
   <div>
-    <p>우하하</p>
+    <ul  align="left">
+      <li>SSAFY(삼성 청년 SW 아카데미) 9th 자바 전공자반 (2023.01 ~ now)
+  </ul>
   </div>
   <br>
 </div>
