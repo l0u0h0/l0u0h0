@@ -4,10 +4,15 @@
   <div> ☁️ <b>ABOUT ME</b> ☁️ </div>
   <br>
   <div>
-    <p>안녕하세요👋. <b>프론트엔드</b> 개발자를 향해 나아가는</p>
-    <p>새로운 개발을 즐거워하는 <b>이유한</b>입니다.</p>
+    <p>안녕하세요👋. <b>최적화</b>를 향해 나아가는</p>
+    <p><b>프론트엔드</b> 개발자 <b>이유한</b>입니다.</p>
   </div>
   <br>
+  <h3>
+    <a href="https://next-portfolio-l0u0h0.vercel.app/" target="_blank">Web PortFolio</a>
+    &nbsp;&nbsp;
+    <a href="https://fork-fluorine-608.notion.site/Lee-Yu-Han-Front-Developer-b8cc6a69fb06478f8f2d01f4288f49d4?pvs=4" target="_blank">Notion PortFolio</a>
+  </h3>
   <br>
 </div>
 
