@@ -1,4 +1,4 @@
-<img  width="100%"  src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=l0u0h0&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Yuhan's%20GitHub"  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=l0u0h0&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Yuhan's%20GitHub" />
 
 <div align="center">
   <div> ☁️ <b>ABOUT ME</b> ☁️ </div>
@@ -7,6 +7,16 @@
     <p>안녕하세요👋. <b>최적화</b>를 향해 나아가는</p>
     <p><b>프론트엔드</b> 개발자 <b>이유한</b>입니다.</p>
   </div>
+  <p>
+    서비스 최적화를 이뤄내 사용자 경험을 끌어올릴 수 있는 개발자를 목표로 나아가고 있습니다
+  </p>
+  <p>
+    ES6를 활용해 SPA 환경에서의 웹 프론트엔드 개발을 주로 하였고, 반응형 디자인을 통한 웹앱 프로젝트 경험이 있습니다.
+  </p>
+  <p>
+    현재는 삼성 청년 SW 아카데미에서 웹 개발에 대한 교육과 팀 프로젝트에 대한 경험을 하고 있으며, <br/>
+      Jira, Gitlab 등 협업 툴에 대한 경험이 있습니다.
+  </p>
   <br>
   <h3>
     <a href="https://next-portfolio-l0u0h0.vercel.app/" target="_blank">Web PortFolio</a>
@@ -42,9 +52,7 @@
   <div> 📝 <b>EXPERIENCES</b> 📝 </div>
   <br>
   <div>
-    <ul>
-      <li>SSAFY(삼성 청년 SW 아카데미) 9th 자바 전공자반 (2023.01 ~ now)
-  </ul>
+    SSAFY(삼성 청년 SW 아카데미) 9th 자바 전공자반 (2023.01 ~ now)
   </div>
   <br>
 </div>
@@ -59,3 +67,5 @@
     <img src="https://camo.githubusercontent.com/a5543c313360671419aee3b05df865eca94c1f41e1b9bc0698fba055ab5e4c3d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c30753068302673686f775f69636f6e733d74727565267468656d653d6f6e656461726b" alt="l0u0h0's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=l0u0h0&amp;show_icons=true&amp;theme=onedark&hide=scss" style="max-width:100%;height:200px;"></p>
   </div>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" />
