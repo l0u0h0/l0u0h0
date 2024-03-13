@@ -14,7 +14,7 @@
     ES6를 활용해 SPA 환경에서의 웹 프론트엔드 개발을 주로 하였고, 반응형 디자인을 통한 웹앱 프로젝트 경험이 있습니다.
   </p>
   <p>
-    삼성 청년 SW 아카데미에서 웹 개발에 대한 교육과 팀 프로젝트에 대한 경험과 <br/>
+    삼성 청년 SW 아카데미에서 웹 개발에 대한 교육과 팀 프로젝트를 통해 <br/>
       Jira, Gitlab 등 협업 툴에 대한 경험이 있습니다.
   </p>
   <br>
@@ -66,8 +66,8 @@
       <img src="http://mazassumnida.wtf/api/generate_badge?boj=l0u0h0" alt="Solved.ac Profile" style="max-width:100%;"/>
     </p>
     <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0u0h0&amp;layout=compact&amp;theme=onedark&hide=SCSS" alt="Top Langs" style="max-width: 100%;height:200px;"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=l0u0h0&amp;show_icons=true&amp;theme=onedark" alt="l0u0h0's GitHub stats" style="max-width:100%;height:200px;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0u0h0&amp;layout=compact&amp;theme=onedark&hide=SCSS" alt="Top Langs" style="max-width:50%;height:200px;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=l0u0h0&amp;show_icons=true&amp;theme=onedark" alt="l0u0h0's GitHub stats" style="max-width:50%;height:200px;"/>
     </p>
   </div>
 </div>
