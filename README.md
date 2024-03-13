@@ -65,10 +65,10 @@
     <p>
       <img src="http://mazassumnida.wtf/api/generate_badge?boj=l0u0h0" alt="Solved.ac Profile" style="max-width:100%;"/>
     </p>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0u0h0&amp;layout=compact&amp;theme=onedark&hide=SCSS" alt="Top Langs" style="max-width:50%;height:200px;"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=l0u0h0&amp;show_icons=true&amp;theme=onedark" alt="l0u0h0's GitHub stats" style="max-width:50%;height:200px;"/>
-    </p>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0u0h0&amp;layout=compact&amp;theme=onedark&hide=SCSS" alt="Top Langs" style="width:auto;height:150px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=l0u0h0&amp;show_icons=true&amp;theme=onedark" alt="l0u0h0's GitHub stats" style="width:auto;height:150px"/>
+    </div>
   </div>
 </div>
 
