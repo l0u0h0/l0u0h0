@@ -1,17 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=l0u0h0&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Yuhan's%20GitHub" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=l0u0h0&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Web%20Frontend%20Developer" />
 
 <div align="center">
   <div> ☁️ <b>ABOUT ME</b> ☁️ </div>
   <br>
   <div>
-    <p>안녕하세요👋. <b>최적화</b>를 향해 나아가는</p>
-    <p><b>프론트엔드</b> 개발자 <b>이유한</b>입니다.</p>
+    <p>안녕하세요👋.</p>
+    <p><b>최적화</b>를 향해 나아가는 <b>프론트엔드</b> 개발자 <b>이유한</b>입니다.</p>
   </div>
   <p>
     서비스 최적화를 이뤄내 사용자 경험을 끌어올릴 수 있는 개발자를 목표로 나아가고 있습니다
   </p>
   <p>
-    ES6를 활용해 SPA 환경에서의 웹 프론트엔드 개발을 주로 하였고, 반응형 디자인을 통한 웹앱 프로젝트 경험이 있습니다.
+    ES6를 활용해 SPA 환경에서의 웹 프론트엔드 개발을 주로 하였고, 반응형 디자인을 통한 웹앱 프로젝트 경험들이 있습니다.
   </p>
   <p>
     삼성 청년 SW 아카데미에서 웹 개발에 대한 교육과 팀 프로젝트를 통해 <br/>
