@@ -67,7 +67,10 @@
     </p>
     <div>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0u0h0&amp;layout=compact&amp;theme=onedark&hide=SCSS" alt="Top Langs" style="width:auto;height:150px"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=l0u0h0&amp;show_icons=true&amp;theme=onedark" alt="l0u0h0's GitHub stats" style="width:auto;height:150px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=l0u0h0&amp;show_icons=true&amp;theme=onedark" alt="l0u0h0's GitHub Stats" style="width:auto;height:150px"/>
+    </div>
+    <div>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=l0u0h0&theme=transparent&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
     </div>
   </div>
 </div>
