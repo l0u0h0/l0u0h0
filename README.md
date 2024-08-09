@@ -1,14 +1,19 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=l0u0h0&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Web%20Frontend%20Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=l0u0h0&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer" />
 
 <div align="center">
-  <div> ☁️ <b>ABOUT ME</b> ☁️ </div>
+  <h3> ☁️ <b>ABOUT ME</b> ☁️ </h3>
   <br>
   <div>
-    <p>안녕하세요👋.</p>
-    <p><b>최적화</b>를 향해 나아가는 <b>프론트엔드</b> 개발자 <b>이유한</b>입니다.</p>
+    <h4>안녕하세요! 🙌🏻 <br/>
+    사용자를 위한 서비스 개발을 향해 나아가는 프론트엔드 개발자 이유한입니다.
+    </h4>
   </div>
+  <div>
+    <p>
+    서비스 최적화를 이루기 위해 메모이제이션 훅이나 지연 로딩, 디바운싱 기법 등을 적용해보았고 더욱 개선하며 성장하기 위해 노력하고 있습니다.
+  </p>
   <p>
-    서비스 최적화를 이뤄내 사용자 경험을 끌어올릴 수 있는 개발자를 목표로 나아가고 있습니다
+    저뿐만 아닌 팀원 모두의 성장을 위합니다. 코드 리뷰를 통해 서로 피드백을 주고 받으며 더 나은 코드를 위해 고민하는것을 주도합니다.
   </p>
   <p>
     ES6를 활용해 SPA 환경에서의 웹 프론트엔드 개발을 주로 하였고, 반응형 디자인을 통한 웹앱 프로젝트 경험들이 있습니다.
@@ -17,22 +22,22 @@
     삼성 청년 SW 아카데미에서 웹 개발에 대한 교육과 팀 프로젝트를 수행했으며 <br/>
       Jira, Gitlab 등 협업 툴에 대한 경험이 있습니다.
   </p>
+  </div>
   <br>
-  <h3>
-    <a href="https://next-portfolio-l0u0h0.vercel.app/" target="_blank">Web PortFolio</a>
-    &nbsp;&nbsp;
-    <a href="https://fork-fluorine-608.notion.site/Lee-Yu-Han-Front-Developer-b8cc6a69fb06478f8f2d01f4288f49d4?pvs=4" target="_blank">Notion PortFolio</a>
-  </h3>
+  <h2>
+    <a href="https://lyh-portfolio.notion.site/b8cc6a69fb06478f8f2d01f4288f49d4" target="_blank">👉🏻 포트폴리오 열어보기</a>
+  </h2>
   <br>
 </div>
 
 <div align="center">
   <br>
-  <div> 🌱 <b>SKILLS</b> 🌱 </div>
+  <h3> 🌱 <b>SKILLS</b> 🌱 </h3>
   <br>
   <div>
     <p>
       <img  alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+      <img alt="Next" src="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white" />
       <img  alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
       <img  alt="Redux" src ="https://img.shields.io/badge/Recoil-3578E5.svg?&style=for-the-badge&logo=Recoil&logoColor=white"/>
       <img  alt="JavaScript"  src ="https://img.shields.io/badge/JavaScript-ffe450.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
@@ -49,17 +54,17 @@
 
 <div align="center">
   <br>
-  <div> 📝 <b>EXPERIENCES</b> 📝 </div>
+  <h3> 📝 <b>EXPERIENCES</b> 📝 </h3>
   <br>
   <div>
-    SSAFY(삼성 청년 SW 아카데미) 9th 자바 전공자반 (2023.01 ~ 2023.12)
+    SSAFY(삼성 청년 SW 아카데미) 9th 자바 전공자반 수료 (2023.01 ~ 2023.12)
   </div>
   <br>
 </div>
 
 <div align="center">
   <br>
-  <div> ☀️ <b>STATUS</b> ☀️ </div>
+  <h3> ☀️ <b>STATUS</b> ☀️ </h3>
   <br>
   <div>
     <p>
