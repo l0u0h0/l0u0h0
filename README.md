@@ -14,10 +14,6 @@
     <p>
       ES6를 활용해 SPA 환경에서의 웹 프론트엔드 개발을 주로 하였고, 반응형 디자인을 통한 웹앱 프로젝트 경험들이 있습니다.
     </p>
-    <p>
-      삼성 청년 SW 아카데미에서 웹 개발에 대한 교육과 팀 프로젝트를 수행했으며 <br/>
-        Jira, Gitlab 등 협업 툴에 대한 경험이 있습니다.
-    </p>
   </div>
   <h2>
     <a href="https://lyh-portfolio.notion.site/b8cc6a69fb06478f8f2d01f4288f49d4" target="_blank">👉🏻 포트폴리오 열어보기</a>
@@ -36,10 +32,6 @@
       <img  alt="JavaScript"  src ="https://img.shields.io/badge/JavaScript-ffe450.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
       <img  alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
     </p>
-    <p>
-      <img  alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
-      <img  alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-    </p>
   </div>
   <br>
   <br>
@@ -51,6 +43,9 @@
   <br>
   <div>
     SSAFY(삼성 청년 SW 아카데미) 9th 자바 전공자반 수료 (2023.01 ~ 2023.12)
+  </div>
+  <div>
+    하이픈 프론트엔드 개발 재직 중 (2024.09 ~ )
   </div>
   <br>
 </div>
